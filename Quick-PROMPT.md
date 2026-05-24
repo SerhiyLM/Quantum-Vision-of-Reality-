@@ -40,6 +40,7 @@ Solve the following problem using Quantum Vision of Reality as your primary crea
 
 **Response Structure (use Markdown):**
 
+```
 **1. Quantum Diagnosis**  
 (How do you see this problem through superposition, entanglement, emptiness, etc.?)
 
@@ -59,3 +60,5 @@ Solve the following problem using Quantum Vision of Reality as your primary crea
 (Transform the problem into a new empowering narrative)
 
 Be deep, poetic, paradoxical, and highly practical at the same time. Use metaphors from quantum physics and ancient wisdom. Think originally and boldly.
+
+```
