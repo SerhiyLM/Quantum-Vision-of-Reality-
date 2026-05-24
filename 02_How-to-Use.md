@@ -1,6 +1,6 @@
 # How to Use the “Quantum Vision of Reality” AI Prompt
 
-This guide shows you exactly how to use the **Quantum Vision of Reality – Creative Technique** prompt with any AI assistant (ChatGPT, Claude, Gemini, etc.). It is written for non‑technical users and ready to include in your digital product. [web:26][web:32][web:35]
+This guide shows you exactly how to use the **Quantum Vision of Reality – Creative Technique** prompt with any AI assistant (ChatGPT, Claude, Gemini, etc.). It is written for non‑technical users and ready to include in your digital product.
 
 ---
 
@@ -8,7 +8,7 @@ This guide shows you exactly how to use the **Quantum Vision of Reality – Crea
 
 - Turns any AI model into a **deep, creative philosopher and practical guide**.  
 - Helps you see your situation through **Quantum Vision of Reality**: interconnectedness, multiple possibilities, observer effect, and creative reframing.  
-- Gives **clear, actionable steps**, not just abstract theory. [web:14][web:1]
+- Gives **clear, actionable steps**, not just abstract theory.
 
 ---
 
@@ -16,7 +16,7 @@ This guide shows you exactly how to use the **Quantum Vision of Reality – Crea
 
 - Any AI chat tool (for example: ChatGPT, Claude, Gemini, Perplexity, etc.).  
 - The **Quantum Vision Prompt** file or section from your product (the long prompt text).  
-- 5–10 minutes of focused attention. [web:31][web:32]
+- 5–10 minutes of focused attention.
 
 ---
 
@@ -27,7 +27,7 @@ You will always work in **two messages**:
 1. **Message 1 – Your situation or question**  
 2. **Message 2 – The full Quantum Vision Prompt**
 
-This structure follows modern prompt‑engineering best practices: separate **context** (your situation) from **instructions** (the prompt). [web:23][web:34][web:35]
+This structure separates **context** (your situation) from **instructions** (the prompt).
 
 ---
 
@@ -46,7 +46,7 @@ You can use one of these templates:
 - “I have a project/idea, but I don’t know how to move it forward…”  
 - “I want to see this conflict/situation from a higher, more connected perspective…”
 
-Send this message first and wait for the AI to **acknowledge** it (even a simple response is fine). [web:1][web:35]
+Send this message first and wait for the AI to acknowledge it (even a simple response is fine).
 
 ---
 
@@ -61,7 +61,7 @@ In the **second message in the same chat**:
 The AI now sees:
 
 - Your first message as the **problem / context**.  
-- The Quantum Prompt as the **role and instructions** it must follow. [web:23][web:34]
+- The Quantum Prompt as the **role and instructions** it must follow.
 
 From this point, the AI should start:
 
@@ -90,7 +90,7 @@ If the AI answers in a generic way, you can reply:
 > Please follow the instructions in the Quantum Vision prompt I just pasted.  
 > Use the principles and techniques step‑by‑step for my situation.
 
-This reminds the model to respect the prompt. [web:2][web:36]
+This reminds the model to respect the prompt.
 
 ---
 
@@ -99,20 +99,20 @@ This reminds the model to respect the prompt. [web:2][web:36]
 To get the most out of this prompt:
 
 - **Be specific** in Message 1  
-  The more concrete your situation, the more precise and useful the guidance will be. [web:1][web:35]
+  The more concrete your situation, the more precise and useful the guidance will be.
 
 - **Answer clarification questions honestly**  
   The AI uses your answers to choose the best Quantum principles and techniques for you.
 
 - **Focus on one topic per conversation**  
-  Start a new chat if you want to explore a completely different area (work vs relationships, for example). [web:2]
+  Start a new chat if you want to explore a completely different area (work vs relationships, for example).
 
 - **Treat it as a dialogue, not a one‑shot**  
   Ask follow‑up questions, request more examples, or say:  
   “Give me another way to see this using Quantum Vision.”
 
 - **Save good conversations**  
-  You can copy or export the best sessions as part of your reflective journal or personal growth notes. [web:32]
+  You can copy or export the best sessions as part of your reflective journal or personal growth notes.
 
 ---
 
@@ -133,4 +133,4 @@ You may want to include this file as:
 - `How-to-Use-Quantum-Vision-Prompt.md` in your product package.  
 - A “Start Here” link in your Notion / PDF / course interface.  
 
-This document follows modern standards for AI prompt documentation: clear headings, step‑by‑step instructions, minimal jargon, and explicit message ordering. [web:26][web:33][web:35]
+This document is structured for clarity and ease of use: clear headings, step‑by‑step instructions, minimal jargon, and explicit message ordering.
