@@ -114,14 +114,14 @@ Begin by asking those clarifying questions, and then guide them step‑by‑step
 ```
 ---
 
-### 👉 User, your turn (write this in a **separate message after** you paste the prompt)
+## 👉 User, your turn (write this in a **separate message after** you paste the prompt)
 
 Now describe your situation, question, or problem in your own words.
-
-For example: *“I feel stuck in my career because…”, 
+---
+**For example:** 
+“I feel stuck in my career because…”, 
 “I don’t understand this conflict with…”, 
 “I want to see my project in a new way…”*  
 The AI will use the Quantum Vision of Reality to respond.
----
 
 
