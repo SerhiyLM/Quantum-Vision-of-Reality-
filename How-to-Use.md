@@ -134,5 +134,5 @@ May this tool awaken new dimensions of clarity, creativity, and inner power in e
 
 **Quantum Vision of Reality** — Premium Intelligence Framework
 
-© 2026 Quantum Vision Toolkit. All Rights Reserved.
-For personal mastery and transformative growth.
+*© 2026 Quantum Vision Toolkit. All Rights Reserved.
+For personal mastery and transformative growth.*
